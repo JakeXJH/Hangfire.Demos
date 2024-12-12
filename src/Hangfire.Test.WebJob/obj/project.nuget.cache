@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "jq4YfihuuOw=",
+  "success": true,
+  "projectFilePath": "E:\\SourceCode\\Demos\\src\\Hangfire.Test.WebJob\\Hangfire.Test.WebJob.csproj",
+  "expectedPackageFiles": [
+    "E:\\packages\\NuGet\\cache\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "E:\\packages\\NuGet\\cache\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

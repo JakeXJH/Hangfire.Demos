@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5U1nCoPok0byYA7FgOI109eqb5bppp/6Rw9mFfJ+jgk=",
+  "Source": "Hangfire.Test.WebJob",
+  "BasePath": "_content/Hangfire.Test.WebJob",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

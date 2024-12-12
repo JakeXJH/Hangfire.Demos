@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Hangfire.Test.WebJob.Controllers.TestJobController",
+    "Method": "GetAsync",
+    "RelativePath": "api/TestJob/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hangfire.Test.WebJob.Controllers.TestJobController",
+    "Method": "Job1Async",
+    "RelativePath": "api/TestJob/Job1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
