@@ -1,7 +1,7 @@
-using Hangfire.MySql;
 using Hangfire;
-using Hangfire.HttpJob;
 using Hangfire.Dashboard;
+using Hangfire.HttpJob;
+using Hangfire.MySql;
 
 var builder = WebApplication.CreateBuilder(args);
 
